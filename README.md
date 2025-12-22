@@ -1,11 +1,11 @@
-# 🧠 TinyForge OS
+# TinyForge OS
 
 **TinyForge OS** is a fun, experimental, Python-like environment written in pure **Assembly**.  
 It’s *not* a real operating system — it’s a **tiny sandbox that behaves like one**, designed to explore how high-level language concepts can work in a low-level world.
 
 ---
 
-## ⚙️ What is TinyForge?
+## What is TinyForge?
 
 TinyForge is a minimalist environment that mimics a scripting experience similar to Python —  
 but everything under the hood runs in **ASM**.  
@@ -16,27 +16,27 @@ Think of it as:
 
 ---
 
-## 🪄 Features
+## Features
 
-- 🐍 **Python-like syntax simulation**  
+- **Python-like syntax simulation**  
   TinyForge interprets commands that *look* like Python, but executes them directly in ASM.  
 
-- ⚡ **Blazingly small & fast**  
+- **Small & fast**  
   Written almost entirely in low-level assembly — no external dependencies.  
 
-- 🧩 **Educational playground**  
+- **Educational playground**  
   Great for learning about parsing, interpretation, and OS fundamentals in a fun, minimal setting.  
 
-- 🧠 **Fake OS shell**  
+- **Fake OS shell**  
   You can "run" fake commands, store variables, and print outputs like a tiny terminal-based OS.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mdev896/TinyForge-OS.git
+   git clone https://github.com/mehmedaltug/TinyForge-OS.git
    cd TinyForge-OS
    make
    ```
